@@ -1,0 +1,15 @@
+- Gossamergardens/
+    - bootstrap/
+    - bootstrap-5.3.3-dist/
+    - Flower Website Assets
+        - Hero
+        - Navbar
+    - img/
+    - background.svg
+    - carousel-img-2.svg
+    - Poppins
+    - conn.php
+    - style.css
+    - styles.css
+    - allproducts.php
+    - gossamergardens.php
